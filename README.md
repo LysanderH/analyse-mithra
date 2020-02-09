@@ -6,6 +6,12 @@ Mithra est une société situé à Liège, dédiée à la santé féminine. Mith
 
 ### Les scénarios proposés
 
+Tu es de la presse et tu as entendu parler d’une firme de Liège qui dédie ses recherches à la santé féminine. Tu aimerais bien faire une interview avec les fondeurs de la société. Pour ce faire, tu dois contacter Mithra.  
+Donc, ta mission est de contacter Mithra pour obtenir les informations que tu nécessite.
+
+Tu es actionnaire chez Mithra. Tu as ressus une invitation pour l’assemblée générale. Mais malheureusement, ta femme l’a lancée dans la corbeille à papier et tu ne connais plus la date de l'assemblée juste qu’elle se déroulera à 10h00 du matin. Maintenant, tu dois chercher sur leur site pour trouver la date.  
+Donc, ta mission est de trouver la date de l’assemblée générale.
+
 ### Observations faites durant les tests
 
 ### Conclusion des tests
